@@ -1,0 +1,14 @@
+// overview description file for de_rotterdam.bsp  (by d-o-Maxx@borgnet.de)
+
+global 
+{
+	ZOOM	1.34
+	ORIGIN	-352.56   -99.81   -545.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_rotterdam.bmp"
+	HEIGHT	-545.00
+}
