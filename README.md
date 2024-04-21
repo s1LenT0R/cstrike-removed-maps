@@ -2,35 +2,35 @@
 
 - Classic Counter-Strike levels from beta versions and their dependencies (.WAD texture packages and .TGA sky boxes)
 
-as_forest.bsp
-as_highrise.bsp
-as_riverside.bsp
-as_tundra.bsp
-cs_alley1.bsp
-cs_arabstreets.bsp
-cs_bunker.bsp
-cs_desert.bsp
-cs_docks.bsp
-cs_facility.bsp
-cs_hideout.bsp
-cs_iraq.bsp
-cs_mansion.bsp
-cs_prison.bsp
-cs_ship.bsp
-cs_station.bsp
-cs_thunder.bsp
-cs_tire.bsp
-cs_wpndepot.bsp
-cs_zoption.bsp
-de_fang.bsp
-de_foption.bsp
-de_jeepathon2k.bsp
-de_railroad.bsp
-de_rotterdam.bsp
-de_vegas.bsp
-es_frantic.bsp
-es_jail.bsp
-es_trinity.bsp
+as_forest
+as_highrise
+as_riverside
+as_tundra
+cs_alley1
+cs_arabstreets
+cs_bunker
+cs_desert
+cs_docks
+cs_facility
+cs_hideout
+cs_iraq
+cs_mansion
+cs_prison
+cs_ship
+cs_station
+cs_thunder
+cs_tire
+cs_wpndepot
+cs_zoption
+de_fang
+de_foption
+de_jeepathon2k
+de_railroad
+de_rotterdam
+de_vegas
+es_frantic
+es_jail
+es_trinity
 
 with their descriptions in .txt format
 
