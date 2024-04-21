@@ -6,6 +6,7 @@ as_forest.bsp
 as_highrise.bsp
 as_riverside.bsp
 as_tundra.bsp
+cs_alley1.bsp
 cs_arabstreets.bsp
 cs_bunker.bsp
 cs_desert.bsp
@@ -17,6 +18,7 @@ cs_mansion.bsp
 cs_prison.bsp
 cs_ship.bsp
 cs_station.bsp
+cs_thunder.bsp
 cs_tire.bsp
 cs_wpndepot.bsp
 cs_zoption.bsp
@@ -24,6 +26,7 @@ de_fang.bsp
 de_foption.bsp
 de_jeepathon2k.bsp
 de_railroad.bsp
+de_rotterdam.bsp
 de_vegas.bsp
 es_frantic.bsp
 es_jail.bsp
