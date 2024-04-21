@@ -1,0 +1,14 @@
+// overview description file for cs_thunder.bsp  (by d-o-Maxx@wertlos.de)
+
+global 
+{
+	ZOOM	1.24
+	ORIGIN	-576.00   -144.00   -769.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_thunder.bmp"
+	HEIGHT	-769.00
+}
