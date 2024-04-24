@@ -1,41 +1,42 @@
 # cstrike-removed-maps
 
-- Classic Counter-Strike levels from beta versions and their dependencies (.WAD texture packages and .TGA sky boxes)
+- Classic Counter-Strike maps from earlier versions including their dependencies!
 
-as_forest
-as_highrise
-as_riverside
-as_tundra
-cs_alley1
-cs_arabstreets
-cs_bunker
-cs_desert
-cs_docks
-cs_facility
-cs_hideout
-cs_iraq
-cs_mansion
-cs_prison
-cs_ship
-cs_station
-cs_thunder
-cs_tire
-cs_wpndepot
-cs_zoption
-de_fang
-de_foption
-de_jeepathon2k
-de_railroad
-de_rotterdam
-de_vegas
-es_frantic
-es_jail
-es_trinity
+- hint for mapcycle.txt in alphabetical order on linux: maps$ ls *.bsp | sort | rev | cut -c 5- | rev > ../mapcycle.txt
 
-with their descriptions in .txt format
+  as_forest
+  as_highrise
+  as_riverside
+  as_tundra
+  cs_alley1
+  cs_arabstreets
+  cs_bunker
+  cs_desert
+  cs_docks
+  cs_facility
+  cs_hideout
+  cs_iraq
+  cs_mansion
+  cs_prison
+  cs_ship
+  cs_station
+  cs_thunder
+  cs_tire
+  cs_wpndepot
+  cs_zoption
+  de_fang
+  de_foption
+  de_jeepathon2k
+  de_railroad
+  de_rotterdam
+  de_vegas
+  es_frantic
+  es_jail
+  es_trinity
 
-- extracted from the various beta installers
 
-- if you only copy the .bsp files (the maps) without .wad (textures) and so on the game will crash on map change.
+- extracted from the various beta installers and scattered around the interwebs.
 
-- place everything in your cstrike folder, if you overwrite something instead of merging this with your installed directories don't blame me as this comes without warranty.
+- sync everything to your cstrike folder or the game might crash on map change if files are missing, especially on the client side!
+  
+- to all y'all sneaky deagle headshooterz: leave an issue if you find something missing here!
